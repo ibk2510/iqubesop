@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(#12cad6, #111d5e);
+    font-family: 'Montserrat', sans-serif;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+
+}
+.card{
+    box-shadow: 2px 5px 5px black;
+
+}
